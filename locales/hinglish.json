@@ -1,0 +1,636 @@
+
+{
+  "common": {
+    "skip": "Skip",
+    "verify": "Verify",
+    "cancel": "Cancel",
+    "thinking": "Soch raha hai...",
+    "finding": "Dhoond raha hai...",
+    "sources": "Sources",
+    "back": "Wapas",
+    "next": "Next",
+    "continue": "Continue",
+    "finish": "Finish"
+  },
+  "onboarding": {
+    "notifications": {
+      "title": "Updated Rahiye",
+      "body": "Apni savings aur rewards ke baare mein important updates paane ke liye notifications allow karein.",
+      "allow": "Notifications Allow Karein",
+      "later": "Shayad Baad Mein"
+    },
+    "language": {
+      "title": "Apni Bhasha Chunein"
+    },
+    "welcome": {
+      "title": "Aap jaise 1 Lakh+ Indians Nirbhar use kar rahe hain!"
+    },
+    "video": {
+      "playing": "Chota video chal raha hai... (10s)",
+      "title": "Dekhein kaise choti savings se bada fark padta hai."
+    },
+    "login": {
+      "title": "Apne Indian Bhaiyon aur Behno se Judein",
+      "subtitle": "Apna phone number daal kar shuru karein.",
+      "placeholder": "Aapka mobile number",
+      "terms": "Maine Terms and Conditions padh liye hain aur main unse sehmat hoon.",
+      "button": "OTP Bhejein"
+    },
+    "otp": {
+      "title": "Apna Number Verify Karein",
+      "subtitle": "Aapke number par bheja gaya 4-digit code daalein."
+    },
+    "createAccount": {
+      "title": "Aapka poora naam kya hai?",
+      "placeholder": "Apna poora naam daalein",
+      "button": "Account Banayein"
+    },
+    "congratulations": {
+      "title": "Badhai ho!",
+      "subtitle": "Aapka account safaltapoorvak ban gaya hai."
+    },
+    "savingsWhy": {
+      "title": "Insurance Ke Liye Daily Kyun Bachayein?",
+      "point1": "Bade, ekmusht premium payment ke bojh se bachata hai.",
+      "point2": "Bina tension ke aapki suraksha active rakhta hai, yeh sunishchit karta hai ki aap kabhi bhi bina cover ke na hon.",
+      "point3": "Insurance ko sasta banata hai aur lagatar bachane ki aadat dalta hai.",
+      "continue": "Setup Jari Rakhein",
+      "why": "Roz save kyun karein?"
+    },
+    "savingsSetup": {
+      "title": "Daily Savings",
+      "subtitle": "Roz save karke apne goals tak 3x tezi se pahunchein.",
+      "button": "50 Points Jeetein & Saving Shuru Karein",
+      "earnPoints": "Aap {{points}} bonus points jeetenge!",
+      "selectAmount": "Apna reward dekhne ke liye ek amount chunein.",
+      "buttonWithPoints": "Saving Shuru Karein & {{points}} Points Payein"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "save": "Save",
+    "transactions": "Transactions"
+  },
+  "profileMenu": {
+    "accountDetails": "Account Details",
+    "sos": "SOS Button",
+    "history": "History",
+    "transactions": "Transactions",
+    "myPolicies": "Meri Policies",
+    "manageUpi": "UPI Mandates Manage Karein",
+    "myDocuments": "Mere Documents (e-Vault)",
+    "rewards": "Rewards & Points",
+    "referFriend": "Dost ko Refer Karein",
+    "helpSupport": "Help & Support"
+  },
+  "settings": {
+    "settings": "SETTINGS",
+    "addNominee": "NOMINEE ADD KAREIN",
+    "promoCode": "PROMO CODE",
+    "notifications": "NOTIFICATION SETTINGS",
+    "changeLanguage": "APP KI LANGUAGE BADLEIN",
+    "logout": "LOGOUT"
+  },
+  "home": {
+    "kyc": {
+      "title": "Apni Profile Poori Karein",
+      "body": "Saari features aur higher limits unlock karne ke liye apna KYC poora karein.",
+      "button": "KYC Poora Karein",
+      "verifiedTitle": "KYC Verified",
+      "verifiedBody": "Aapki profile complete hai. Ab aap saare features use kar sakte hain.",
+      "verifiedButton": "Verified"
+    },
+    "savings": {
+      "title": "Daily Savings",
+      "subtitle": "Roz save karke apne goals tak 3x tezi se pahunchein."
+    },
+    "savingsGoal": {
+      "title": "Aapka Savings Goal",
+      "cta": "Saari Savings Dekhein"
+    },
+    "insurance": {
+      "title": "Har Zaroorat Ke Liye Insurance"
+    },
+    "dailyHabit": {
+      "title": "Daily Savings Ki Aadat Banayein",
+      "subtitle": "Dekhein kaise choti, lagatar savings time ke saath badh sakti hai. Yeh aapko visualize karne mein help karne ke liye ek demo hai.",
+      "sliderLabel": "Main roz ₹{amount} save karunga",
+      "projectionTitle": "Aapki Potential Growth (Est.)",
+      "year1": "1 Saal mein",
+      "year2": "2 Saal mein",
+      "year3": "3 Saal mein",
+      "button": "Aadat Shuru Karein & 20 Points Jeetein"
+    }
+  },
+    "insurance": {
+    "1": { "description": "Accidental death/disability cover ke liye ₹5/din." },
+    "2": { "description": "OPD & hospitalisation ke liye kam premium wala health cover." },
+    "3": { "description": "Fasal ke nuksaan, mausam ki gadbadi, aur keeton se bachata hai." },
+    "6": { "description": "Kamane wale member ke guzar jaane par income replacement." },
+    "8": { "description": "Public liability + aag/chori ke risk se suraksha." },
+    "9": { "description": "Hospital mein admit hone par roz ka cash benefit, saste rate par." }
+  },
+  "explore": {
+    "title": "AI Features Explore Karein",
+    "back": "Explore par Wapas Jayein",
+    "tabs": {
+        "aiFeatures": "AI Features",
+        "govtSchemes": "Sarkari Schemes"
+    },
+    "advisor": {
+      "title": "Personalized Insurance Advisor",
+      "description": "Apni life ke hisab se smart recommendations payein.",
+      "body": "Custom insurance plan paane ke liye apni lifestyle, kaam, aur family ke baare mein batayein. Jaise: \"Main Maharashtra ke ek gaon mein 30 saal ka kisan hoon, meri ek patni aur do bacche hain.\"",
+      "placeholder": "Mujhe apne baare mein batayein...",
+      "button": "Recommendation Payein",
+      "chat": {
+        "start": "Hello! Main aapka personal insurance advisor hoon. Aapke liye perfect plan dhoondhne ke liye main kuch sawal poochunga.",
+        "q_age": "Shuru karne ke liye, kya aap apni umar bata sakte hain?",
+        "q_profession": "Bahut badiya! Aapka profession kya hai? (Jaise, kisan, dukaan malik, driver)",
+        "q_location": "Aur aap gaon mein rehte hain ya sheher mein?",
+        "q_location_rural": "Gaon",
+        "q_location_urban": "Sheher",
+        "q_family": "Mujhe apni family ke baare mein batayein. (Jaise, shaadi-shuda, 2 bachche)",
+        "q_income": "Aakhir mein, aapki lagbhag mahine ki aamdani kya hai? Isse mujhe sabse saste options dhoondhne mein madad milegi. (Jaise, 15000)",
+        "thanks": "Shukriya! Main aapke liye sabse achhe recommendations dhoondhne ke liye aapki profile analyze kar raha hoon. Ismein thoda time lag sakta hai...",
+        "restart": "Dobara Shuru Karein"
+      }
+    },
+    "location": {
+      "title": "Location-Based Insurance",
+      "description": "Apne area se relevant insurance dhoondein.",
+      "body": "Apne specific region mein popular aur relevant insurance plans discover karne ke liye location access allow karein.",
+      "button": "Local Insurance Dhoondein",
+      "prompt": "Is area ke logon ke liye kaunsa insurance popular aur faydemand hai?",
+      "error": "Location nahi mil saki"
+    },
+    "video": {
+      "title": "Video Explainer",
+      "description": "Kisi bhi topic par ek chota video banwayein.",
+      "body": "Ek topic daalein, aur hum aapke liye ek chota video explainer banayenge. Ismein kuch minutes lag sakte hain.",
+      "placeholder": "e.g., Ek khush parivar ko insurance check mil raha hai",
+      "button": "Video Banayein",
+      "loading": "Video bana raha hai...",
+      "ready": "Aapka Video Taiyar Hai!",
+      "apiKeyTitle": "Video Generator ke liye API Key Zaroori Hai",
+      "apiKeyBody": "Is feature ko use karne ke liye, aapko ek API key select karni hogi. Video generation ek billable service hai.",
+      "apiKeyButton": "API Key Select Karein",
+      "billingLink": "Billing ke baare mein jaanein",
+      "errorAlert": "Video generation ke dauran ek error aayi. Please apni API key check karein aur dobara try karein."
+    },
+    "transcribe": {
+      "title": "Audio Transcription",
+      "description": "Apne voice notes ko turant transcribe karein."
+    },
+    "live": {
+      "title": "Live Voice Agent",
+      "description": "Hamare AI se real-time mein baat karein."
+    }
+  },
+  "transactions": {
+    "title": "Transactions",
+    "type": {
+      "dailysaving": "Daily Saving",
+      "rewardpoints": "Reward Points",
+      "instantsaving": "Instant Saving"
+    },
+    "status": {
+      "completed": "Completed",
+      "credited": "Credited"
+    }
+  },
+  "chat": {
+    "title": "Nirbhar Assistant",
+    "initialMessage": "Hello! Main aapka Nirbhar assistant hoon. Main aaj aapki kaise madad kar sakta hoon? Mujhse insurance ya savings ke baare mein poochein!",
+    "placeholder": "Ek sawaal poochein...",
+    "error": "Maaf kijiye, ek error aayi. Kripya dobara koshish karein."
+  },
+  "tour": {
+    "next": "Next",
+    "prev": "Previous",
+    "skip": "Tour Skip Karein",
+    "finish": "Finish",
+    "step1": {
+      "title": "Home Mein Swagat Hai!",
+      "content": "Yeh aapka main dashboard hai. Apna KYC status, savings progress dekhein, aur ek nazar mein main features access karein."
+    },
+    "step2": {
+      "title": "Aapke Liye Insurance",
+      "content": "Hum aapki zarooraton ke liye design kiye gaye kai micro-insurance plans offer karte hain. Aur jaanne ke liye kisi bhi card par tap karein."
+    },
+    "step3": {
+      "title": "Aapka AI Assistant",
+      "content": "Koi sawaal hai? Savings, insurance, ya local services dhoondne mein madad ke liye kabhi bhi hamare AI assistant par tap karein."
+    },
+    "step4": {
+      "title": "Explore & Discover Karein",
+      "content": "Explore tab mein powerful AI tools hain, jaise ek personalized advisor aur video explainers, jo aapki madad karte hain."
+    },
+    "step5": {
+      "title": "Apni Savings Manage Karein",
+      "content": "Save tab woh jagah hai jahan aap apne savings goals manage kar sakte hain, automatic plans set kar sakte hain, aur apni progress track kar sakte hain."
+    },
+    "step6": {
+      "title": "Account & Settings",
+      "content": "Aakhir mein, apna account manage karein, nominee add karein, apne rewards check karein, aur Settings menu mein support payein."
+    },
+    "reward": {
+      "title": "Tour Poora Hua!",
+      "body": "Aap taiyar hain! App ke baare mein seekhne ke liye shukriya, humne aapke account mein 50 bonus points add kiye hain.",
+      "button": "Shuru Karein!"
+    }
+  },
+  "nominee": {
+    "title": "Nominee Add Karein",
+    "form": {
+        "nameLabel": "Poora Naam",
+        "namePlaceholder": "Nominee ka poora naam daalein",
+        "relationshipLabel": "Rishta",
+        "relationshipPlaceholder": "Jaise, Spouse, Beta, Beti",
+        "phoneLabel": "Phone Number",
+        "phonePlaceholder": "Nominee ka phone number daalein",
+        "saveButton": "Nominee Save Karein"
+    }
+  },
+  "promo": {
+    "title": "Promo Code Lagayein",
+    "placeholder": "Promo code daalein",
+    "button": "Code Lagayein",
+    "success": "Promo code safaltapoorvak lag gaya!",
+    "invalid": "Anya promo code. Kripya dobara koshish karein."
+  },
+  "scheduler": {
+    "title": "Apna Premium Set Karein",
+    "calendarTitle": "Aapka Daily Payment Schedule",
+    "paymentTitle": "UPI AutoPay Set Karein",
+    "paymentSubtitle": "Aapka premium har din automatically cut jayega.",
+    "confirmButton": "Payment Ke Liye Aage Badhein"
+  },
+  "kyc": {
+    "title": "KYC Verification",
+    "step": "Step {current} of {total}",
+    "intro": {
+      "title": "Chaliye aapka KYC poora karte hain",
+      "body": "Yeh ek one-time process hai aapke account ko secure karne aur higher limits unlock karne ke liye. Please apna PAN aur Aadhaar card paas rakhein.",
+      "button": "KYC Shuru Karein"
+    },
+    "pan": {
+      "title": "Apna PAN Card verify karein",
+      "label": "PAN Card Number",
+      "placeholder": "Apna 10-digit PAN daalein",
+      "button": "PAN Verify Karein"
+    },
+    "aadhaar": {
+      "title": "Apna Aadhaar verify karein",
+      "label": "Aadhaar Card Number",
+      "placeholder": "12-digit Aadhaar number daalein",
+      "button": "OTP Bhejein",
+      "otpTitle": "OTP Daalein",
+      "otpSubtitle": "Aapke Aadhaar-linked mobile number par bheja gaya.",
+      "otpButton": "OTP Verify Karein"
+    },
+    "selfie": {
+      "title": "Ek Live Photo Lein",
+      "body": "Please seedhe camera mein dekhein. Make sure aapka chehra saaf aur roshni mein dikh raha ho.",
+      "captureButton": "Photo Khichein",
+      "retakeButton": "Dobara Lein"
+    },
+    "upload": {
+      "title": "Documents Upload Karein",
+      "body": "Please apne address proof ka ek saaf photo upload karein (Jaise, Aadhaar card, Voter ID, ya bijli ka bill).",
+      "button": "Upload Ke Liye File Chunein"
+    },
+    "success": {
+      "title": "KYC Submit Ho Gaya!",
+      "body": "Aapke documents verification ke liye submit ho gaye hain. Ismein 24 ghante tak lag sakte hain. Poora hone par hum aapko bata denge."
+    }
+  },
+  "policy": {
+    "tabs": {
+        "overview": "Overview",
+        "coverage": "Coverage",
+        "benefits": "Benefits"
+    },
+    "common": {
+      "coverageTitle": "Coverage Summary",
+      "benefitsTitle": "Benefits",
+      "eligibilityTitle": "Eligibility",
+      "covered": "Kya Cover Hai",
+      "notCovered": "Kya Cover Nahi Hai",
+      "watchVideo": "Video Dekhein",
+      "viewScript": "Script Dekhein"
+    },
+    "1": {
+      "productName": "Daily Accident Cover",
+      "header": { "title": "Daily Accident Cover", "subtext": "Roz ₹5 ka suraksha for delivery/gig workers" },
+      "video": { 
+        "title": "Accident hone par kaise madad milti hai? (30 sec)",
+        "script": {
+          "1": "Namaste! Accident ka risk delivery riders, field workers aur daily travelers ke liye sabse zyada hota hai — especially UP, Bihar aur MP regions mein.",
+          "2": "Isliye Nirbhar laaya hai Daily Accident Cover. Sirf ₹5/day mein ₹2,00,000 tak ka protection.",
+          "3": "Agar koi chhota accident ho jaye, turant OPD claim milega.",
+          "4": "Agar bada accident ho, to family ko payout milta hai.",
+          "5": "Claim ke liye bas photo aur voice note upload karo.",
+          "6": "Roz ka ₹5 = badi suraksha.",
+          "7": "Nirbhar — protection jo samajh aaye."
+        }
+       },
+      "coverage": {
+        "summary": { "death": "Accidental death", "disability": "Permanent disability", "opd": "Emergency OPD" },
+        "notCovered": { "alcohol": "Alcohol use", "selfHarm": "Self-harm" }
+      },
+      "benefits": {
+        "b1": "Roz travel karne walo ke liye best",
+        "b2": "Accident claim 2 clicks mein",
+        "b3": "Gig workers + riders ke liye must-have"
+      },
+      "roiGraph": { 
+        "title": "Value vs. Premium", "xAxis": "Days", "yAxis": "Amount (₹)",
+        "legend": {
+          "premium": "Roz ka kharcha",
+          "pending": "Pending Suraksha Value",
+          "roi": "ROI Ratio"
+        }
+      },
+      "eligibility": { "age": "18-55", "profession": "Gig/field workers", "kyc": "Basic KYC only" },
+      "cta": { "text": "Activate Daily Cover (₹5/day)" }
+    },
+    "2": {
+      "productName": "Micro Health Floater",
+      "header": { "title": "Micro Health Floater", "subtext": "Family health ka budget plan" },
+      "video": { 
+        "title": "OPD + Hospitalization ka simple breakdown (35 sec)",
+        "script": {
+            "1": "Family ko OPD aur hospitalization expenses se bachana sabka sapna hota hai — especially Tamil Nadu, Karnataka aur Andhra Pradesh ke shop owners ke liye.",
+            "2": "Micro Health Floater deta hai OPD + IPD coverage sirf ₹10/day mein.",
+            "3": "Chhoti bimaari? — Medicine + Doctor visit cover.",
+            "4": "Badi bimaari? — Hospitalisation cover up to ₹1 lakh.",
+            "5": "Har claim Hinglish mein samjhaaya jaata hai.",
+            "6": "Family health ko banaye budget-friendly — Nirbhar ke saath."
+        }
+      },
+      "coverage": {
+        "summary": { "opd": "OPD cover", "hospitalization": "Hospitalization", "medicine": "Medicine allowance" },
+        "notCovered": { "cosmetic": "Cosmetic procedures" }
+      },
+      "benefits": {
+        "b1": "Small shops, small families = perfect fit",
+        "b2": "OPD sabse bada kharcha — ab covered!"
+      },
+      "roiGraph": { 
+        "title": "OPD Benefit vs. Premium", "xAxis": "Months", "yAxis": "Amount (₹)",
+        "legend": {
+          "premium": "Roz ka Premium",
+          "opd": "Medical Fayda",
+          "hospital": "OPD + Hospital Value",
+          "roi": "ROI Ratio"
+        }
+      },
+      "eligibility": { "family": "1-5 family members", "age": "18-60", "kyc": "Full KYC required" },
+      "cta": { "text": "Protect Family Health (₹10/day)" }
+    },
+    "3": {
+      "productName": "Crop & Farming Risk",
+      "header": { "title": "Crop & Farming Risk", "subtext": "Mausam + pest protection" },
+      "video": { 
+        "title": "How crop loss claims work (40 sec)",
+        "script": {
+            "1": "Punjab, Haryana, Maharashtra aur Odisha ke farmers ko sabse bada risk hota hai — mausam aur pest attack.",
+            "2": "Nirbhar ka Crop & Farming Risk plan deta hai crop loss cover sirf ₹3/day mein.",
+            "3": "Barish zyada? Kam? Pest attack?",
+            "4": "Sab included.",
+            "5": "Drone survey + weather data ke base par claim approval.",
+            "6": "Farmer ka saath, har season mein."
+        }
+      },
+      "coverage": {
+        "summary": { "weather": "Weather loss", "pest": "Pest attack", "yield": "Low-yield protection" },
+        "notCovered": { "intentional": "Intentional crop burning" }
+      },
+      "benefits": {
+        "b1": "Weather-based automatic payouts",
+        "b2": "No paperwork for farmers"
+      },
+      "roiGraph": { 
+        "title": "Payout vs. Premium", "xAxis": "Season", "yAxis": "Amount (₹)",
+        "legend": {
+          "premium": "Premium",
+          "weather": "Mausam ka risk",
+          "pest": "Fasal ka fayda",
+          "roi": "ROI Ratio"
+        }
+      },
+      "cta": { "text": "Secure Kharif/Rabi Crop (₹3/day)" }
+    },
+    "6": {
+      "productName": "Family Death / Income Replacement",
+      "header": { "title": "Family Income Protect", "subtext": "Maa-baap/bachchon ka future secure" },
+      "video": { 
+        "title": "What happens when the earner passes? (45 sec)",
+        "script": {
+            "1": "Telangana, Kerala aur UP me daily wage families ka biggest risk — income ruk jaana.",
+            "2": "Nirbhar Family Income Replacement ensures ki agar earning member nahi rahe, to family ko monthly income mile.",
+            "3": "Education bonus + beneficiary auto-transfer.",
+            "4": "Family ka future ab Nirbhar."
+        }
+      },
+      "coverage": {
+        "summary": { "monthlyIncome": "Monthly income for 12 months", "educationBonus": "Education-support bonus" },
+        "notCovered": { "suicide": "Suicide (first 12 months)" }
+      },
+      "benefits": { },
+      "roiGraph": { 
+        "title": "Income Replaced vs. Premium", "xAxis": "Months", "yAxis": "Amount (₹)",
+        "legend": {
+          "premium": "Roz ka ₹7 premium",
+          "income": "Ghar ki Aamdani",
+          "bonus": "Education Bonus",
+          "roi": "ROI Ratio"
+        }
+      },
+      "cta": { "text": "Secure Family Income (₹7/day)" }
+    },
+    "8": {
+      "productName": "Small Business Public Liability",
+      "header": { "title": "Public Liability Protect", "subtext": "Shop me galti se bhi nuksaaan? Hum cover karte hain." },
+      "video": { 
+        "title": "How liability claims work (40s)",
+        "script": {
+            "1": "Kirana/Salon/Tea stalls — agar customer gir jaye ya samaan damage ho jaye, toh bada nuksaan.",
+            "2": "Nirbhar Public Liability Protect covers injury, fire, burglary.",
+            "3": "Small business ko bada protection."
+        }
+      },
+      "coverage": {
+        "summary": { "customerInjury": "Customer injury", "fire": "Fire", "burglary": "Burglary" },
+        "notCovered": { "staffInjury": "Staff injury" }
+      },
+      "benefits": { },
+      "roiGraph": { 
+        "title": "Risk vs. Premium", "xAxis": "Year", "yAxis": "Amount (₹)",
+        "legend": {
+          "premium": "Roz ka ₹5 premium",
+          "fire": "Fire Loss Value",
+          "injury": "Customer Injury Value",
+          "theft": "Theft/Burglary Value",
+          "roi": "ROI Ratio"
+        }
+      },
+      "cta": { "text": "Secure My Shop (₹5/day)" }
+    },
+    "9": {
+      "productName": "Senior Citizen Daily Cash",
+      "header": { "title": "Senior Daily Cash", "subtext": "Hospital me admit hone par roz paise milte hain." },
+      "video": { 
+        "title": "How daily cash benefits work (30s)",
+        "script": {
+            "1": "Punjab, Himachal aur Uttarakhand ke elders hospital admission mein bahut cash spend karte hain.",
+            "2": "Senior Citizen Daily Cash deta hai ₹500/day ka benefit.",
+            "3": "No forms needed, simple photo upload."
+        }
+      },
+      "coverage": {
+        "summary": { "dailyCash": "Hospital daily cash", "tests": "Tests, diagnosis" },
+        "notCovered": { "outpatient": "Outpatient only" }
+      },
+      "benefits": { },
+      "roiGraph": { 
+        "title": "Benefit vs. Stay", "xAxis": "Days in Hospital", "yAxis": "Amount (₹)",
+        "legend": {
+          "premium": "Premium Paid",
+          "cash": "Roz ka Cash Benefit",
+          "diagnostic": "Diagnostic Benefit Value",
+          "roi": "ROI Ratio"
+        }
+      },
+      "cta": { "text": "Support My Parents (₹8/day)" }
+    }
+  },
+  "upi": {
+    "title": "Apna payment poora karein",
+    "payTo": "Nirbhar ko pay kar rahe hain",
+    "enterPin": "UPI PIN daalein",
+    "processing": "Payment process ho raha hai...",
+    "successTitle": "Payment Successful!",
+    "successBody": "{policyName} ke liye aapka UPI AutoPay ab active hai. Aapka ₹{amount} ka daily premium auto-debit hoga.",
+    "secure": "SECURE UPI PAYMENT"
+  },
+  "save": {
+    "delete": {},
+    "withdraw": {
+      "title": "Paise Nikalein",
+      "button": "Withdraw",
+      "balance": "Available Balance",
+      "amountLabel": "Kitna Amount Nikalna Hai",
+      "amountPlaceholder": "Jaise, 500",
+      "transferTypeLabel": "Transfer Type",
+      "instant": "Instant Transfer",
+      "scheduled": "Scheduled",
+      "scheduleDateLabel": "Date Select Karein",
+      "confirmButton": "Withdrawal Confirm Karein",
+      "successInstant": "₹{amount} ka withdrawal shuru ho gaya hai. Jald hi aapke account mein dikhega.",
+      "successScheduled": "₹{amount} ka withdrawal {date} ke liye schedule ho gaya hai.",
+      "errorAmount": "Withdrawal amount available balance se zyada nahi ho sakta.",
+      "errorInvalidAmount": "Please ek valid amount daalein."
+    }
+  },
+  "claims": {},
+  "reminders": {
+    "title": "Daily Reminder",
+    "button": "Reminder Set Karein",
+    "modalTitle": "Daily Savings Reminder Set Karein",
+    "modalBody": "Roz notification paane ke liye ek time chunein.",
+    "saveButton": "Reminder Save Karein",
+    "removeButton": "Reminder Hatayein",
+    "noReminderSet": "Koi reminder set nahi hai",
+    "reminderSetAt": "Reminder {time} ke liye set hai",
+    "notification": "Saving ka time! Apna daily goal mat bhoolna."
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "Aapke paas koi nayi notifications nahi hain.",
+    "type": {
+      "savings": "Savings Credited",
+      "reward": "Points Mile!",
+      "kyc": "KYC Verified",
+      "reminder": "Policy Reminder",
+      "claim": "Claim Update"
+    },
+    "body": {
+      "savings": "Aapki ₹{amount} ki daily saving aapke emergency fund mein safaltapoorvak add ho gayi hai.",
+      "reward": "Aapne tour poora karne ke liye {points} points jeete hain. Aur jeene ke liye saving karte rahein!",
+      "kyc": "Badhai ho! Aapka KYC poora ho gaya hai. Sabhi app features ab unlock ho gaye hain.",
+      "reminder": "{policyName} ke liye aapka premium kal due hai. Miss na karein!",
+      "claim": "{policyName} ke liye aapke claim par ab process kiya ja raha hai."
+    }
+  },
+  "govtSchemes": {
+    "title": "Sarkari Bima Yojnayein",
+    "1": { "name": "Ayushman Bharat Yojana (PMJAY)", "description": "Ayushman Bharat Yojana, also known as the Pradhan Mantri Jan Arogya Yojana (PMJAY), is a universal health insurance scheme of the Ministry of Health and Family Welfare, Government of India. The PMJAY was launched to provide free healthcare services to more than 40% population of the country. This health insurance for poor in India offers a health cover of ₹5 lakh.\n\nThe PMJAY scheme provides coverage for medicines, diagnostic expenses, medical treatment, and pre-hospitalisation costs. The poor or low-income families of India can benefit from this Ayushman Bharat health insurance scheme." },
+    "2": { "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)", "description": "Pradhan Mantri Suraksha Bima Yojana aims to provide accident insurance cover to the people of India. People in the age group of 18 years to 70 years who have an account in a bank or post office can avail benefits from this scheme.\n\nThis personal accident insurance policy provides an annual cover of ₹2 lakh for total disability and death cover and ₹1 lakh for partial disability. The premium for this scheme gets automatically debited from the policyholder's bank account." },
+    "3": { "name": "Aam Aadmi Bima Yojana (AABY)", "description": "The Aam Aadmi Bima Yojana is a National Health Insurance Scheme introduced in October 2007 to provide compensation for accidental death and disability. It covers the earning member or the head of the family between the age group of 18 to 59 years. The AABY insurance scheme is tailored for people living in the upcountry and rural areas as well as landless citizens or tenants living in both urban and rural areas. It also provides scholarships to underprivileged children.\n\nUnder the AABY scheme, the family of the insured is compensated with ₹30,000 in case of natural death and ₹75,000 in case of accidental death. Besides, ₹37,500 is paid as compensation in case of accidental disability. Moreover, the annual ₹200 premium for this scheme is shared equally by the state and the central government." },
+    "4": { "name": "Central Government Health Scheme (CGHS)", "description": "The Central Government Health Scheme was started in 1954 to provide comprehensive healthcare facilities to central government officials and pensioners residing in the country. This government insurance scheme is operational in 80 cities, including Kolkata, Mumbai, Lucknow, Delhi, Nagpur, and Pune.\n\nThe CGHS scheme has the following main components:\n\nOPD treatments availed at wellness centres as well as government and empanelled hospitals.\nReimbursement of hospitalisation expenses for treatments availed at government or private hospitals.\nAll dispensary-related services, including AYUSH medicines.\nInvestigations, like X-rays, MRIs, etc. or laboratory examination services will be provided free of cost at government and CGHS-empanelled diagnostic centres.\nFree specialist consultations at polyclinics, government, and empanelled hospitals.\nReimbursement of medical expenses incurred on artificial limbs, hearing aids, etc." },
+    "5": { "name": "Employees' State Insurance Scheme (ESIC)", "description": "Employees' State Insurance Scheme is a multidimensional National Health Insurance Scheme that provides medical coverage, maternity insurance, sickness benefit, disablement benefit and dependents benefits to all workers in India. It provides full medical insurance to the workers and their families and pays cash benefits in times of sickness or temporary/permanent disability. In addition, dependents of workers injured in occupational accidents are eligible for a monthly pension known as dependent benefits.\n\nThe ESIC scheme is applicable to all permanent factories and establishments employing more than 10 employees. However, some states have extended this scheme to various establishments and businesses, including shops, restaurants, road and motor transport and newspaper entities that employ 20 or more people." },
+    "6": { "name": "Chief Minister's Comprehensive Health Insurance Scheme (CMCHIS)", "description": "Chief Minister's Comprehensive Health Insurance Scheme is a Tamil Nadu state government scheme that works in association with the United India Insurance Company Ltd. It is a family floater health insurance policy designed to provide quality healthcare services to economically weak families in the state. This medical insurance for low-income people covers 1090 medical procedures along with 52 diagnostic procedures and 8 follow-up procedures.\n\nUnder the CMCHIS scheme, eligible people can claim hospitalisation expenses up to ₹5 lakh at both private and government hospitals. Tamil Nadu residents with an annual family income of less than ₹1.2 lakh per year are eligible to enrol under this scheme." },
+    "7": { "name": "Universal Health Insurance Scheme (UHIS)", "description": "Universal Health Insurance Scheme was implemented to provide medical and personal accident cover to families living below the poverty line. While this mediclaim policy covers the hospitalisation expenses of every family member, it provides accidental death and disability benefit to the earning member or head of the family.\n\nThe main drivers of the Universal Health Insurance Scheme are the four public sector general insurance companies that offer health insurance for below poverty line citizens, especially economically disabled citizens. They cover hospitalisation expenses of up to ₹30,000, accidental death benefit of ₹25,000 and a disability compensation of ₹50 daily for a maximum of 15 days." },
+    "8": { "name": "West Bengal Health Scheme (WBHS)", "description": "The Government of West Bengal launched the West Bengal Health Scheme to provide better medical facilities to its employees in the year 2008. Gradually, the scheme was made available to superannuated and family pensioners, IAS, IFS and IPS employees and retired AIS officers.\n\nUnder the WBHS scheme, both individual and family floater coverage is available for up to ₹2 lakh per indoor treatment. The scheme covers all indoor medical treatments and OPD treatment for 18 diseases. Moreover, cashless health insurance was introduced in 2014, leading to the renaming of the scheme to 'West Bengal Health for All Employees and Pensioners Cashless Medical Treatment Scheme 2014'." },
+    "9": { "name": "Yeshasvini Health Insurance Scheme", "description": "The Karnataka State Government introduced the Yeshasvini Health Insurance Scheme for peasants, farmers and members of any co-operative society. The beneficiaries can avail medical treatments at identified Yeshasvini network hospitals across the state. Moreover, coverage benefits can be extended to the beneficiary's family members.\n\nThis government health insurance scheme covers 2128 procedures, including 1650 medical procedures and 478 ICUs. However, it mainly offers coverage for heart diseases, orthopaedic diseases, nerve-related diseases, women-related diseases, intestinal diseases, ENT and ophthalmology diseases." },
+    "10": { "name": "Mahatma Jyotirao Phule Jan Arogya Yojana (MJPJAY)", "description": "The Government of Maharashtra introduced the Mahatma Jyotirao Phule Jan Arogya Yojana to provide medical insurance coverage to all families in the states. This health insurance for low-income individuals is especially helpful for people living below the poverty line and farmers in Maharashtra.\n\nThe MJPJAY scheme offers a family health cover of up to ₹5 lakh for 1209 treatments under 34 specialities. The best part about this policy is that there is no waiting period for pre-existing diseases, and it is claimable from the first day itself." },
+    "11": { "name": "Mukhyamantri Amrutum (MA) Yojana", "description": "Mukhyamantri Amrutam Yojana was initiated by the Gujarat government in the year 2012 to provide quality medical and surgical care for major illnesses to poor people living in the state. People belonging to lower-income groups and living below the poverty line are eligible to enrol in this scheme.\n\nThe MA Yojana provides family floater health insurance coverage of up to ₹3 lakh per annum. Under this health insurance for poor people, policyholders can avail of cashless medical treatments for heart diseases, cancer, neurosurgery, kidney diseases, burns and neonatal or newborn baby diseases, covering 698 procedures at private, government and trust-run hospitals. Moreover, transplants of kidney, liver and kidney + pancreas are covered up to ₹5 lakh." },
+    "12": { "name": "Karunya Arogya Suraksha Padhathi (KASP)", "description": "The Kerala Government launched the Karunya Arogya Suraksha Padhathi to provide secondary and tertiary care hospitalisation to the poor and vulnerable families in the state. It provides health insurance coverage of ₹5 lakh for 1573 medical procedures. Moreover, it covers pre-hospitalisation expenses of up to 3 days and post-hospitalisation expenses of up to 15 days.\n\nPeople in Kerala who are living below the poverty line can enrol themselves in this health insurance for poor in India. Besides, it provides coverage to the entire family with no restriction on family size, gender or age." },
+    "13": { "name": "Telangana State Government - Employees and Journalists Health Scheme", "description": "Telangana Government launched the Employees and Journalist Health Scheme for its working and retired journalists and employees, including pensioners. In this scheme, beneficiaries and their families can avail of cashless treatment at hospitals registered with Rajiv Aarogyasri Health Care Trust. The coverage includes in-patient treatment, OPD treatment for chronic illnesses and follow-up therapies." },
+    "14": { "name": "Dr YSR Aarogyasri Health Scheme", "description": "The Andhra Pradesh Government launched the Dr YSR Aarogyasri Health Scheme in 2007 to offer universal health coverage to people in the state living below the poverty line. It provides end-to-end cashless coverage of ₹5 lakh for listed diseases at government and private empanelled hospitals. In 2024, the scheme was renamed as Dr. Nandamuri Taraka Rama Rao Vaidya Seva Trust Health Insurance scheme.\n\nThis health insurance for below poverty line citizens covers 3257 listed in-patient treatments across 31 categories, along with free screening and OPD consultations." },
+    "15": { "name": "Awaz Health Insurance Scheme", "description": "The Kerala Government launched the Awaz Health Insurance Scheme in 2017 to provide medical insurance and personal accident insurance coverage to migrants in the state. It provides a sum insured of ₹25,000 to beneficiaries between the age of 18 years and 60 years for medical treatments. Moreover, an accidental death benefit of 2 lakh and a disability compensation of ₹1 lakh are also available for the insured migrants." },
+    "16": { "name": "Bhamashah Swasthya Bima Yojana (BSBY)", "description": "Bhamashah Swasthya Bima Yojana was launched by the Government of Rajasthan to provide cashless hospitalisation facilities to families identified under the National Food Security Act (NFSA) and the Rashtriya Swasthya Bima Yojana in the state. It covers in-patient treatment expenses of up to ₹30,000 for general illnesses across 1715 packages. The scheme also provides critical illness insurance coverage of up to ₹3 lakh.\n\nMoreover, this government health insurance scheme also provides pre-hospitalisation expenses of up to 7 days and post-hospitalisation expenses of up to 15 days." },
+    "17": { "name": "Rashtriya Swasthya Bima Yojana (RSBY)", "description": "Rashtriya Swasthya Bima Yojana was launched by the Ministry of Labour and Employment to provide medical insurance coverage to families living below the poverty line. It provides family floater coverage for in-patient treatment expenses of up to ₹30,000. The scheme also covers travel expenses of ₹100 per day up to a limit of ₹1000." }
+  },
+  "renew": {
+    "tabTitle": "Policy Renew Karein",
+    "title": "Apni Policies Renew Karein",
+    "subtitle": "Renewal details dekhne aur auto-pay set karne ke liye policy select karein.",
+    "dueDate": "Aapka renewal due hai",
+    "setupAutoPay": "Renewal ke liye UPI AutoPay Set Karein",
+    "setupSubtitle": "Aapka renewal premium due date par automatically deduct ho jayega.",
+    "confirmButton": "Auto-Renewal Confirm Karein",
+    "button": "Renew"
+  },
+    "sos": {
+    "title": "SOS - Emergency Contacts",
+    "ambulance": "Ambulance",
+    "police": "Police",
+    "assistant": "Nirbhar Call Assistant",
+    "insurance": "Insurance Emergency Line",
+    "call": "Call Karein"
+  },
+  "myPolicies": {
+    "title": "Meri Policies",
+    "policyNumber": "Policy No.",
+    "coverage": "Coverage",
+    "premium": "Premium",
+    "dueDate": "Next Due Date",
+    "viewDetails": "Details Dekhein"
+  },
+  "myDocuments": {
+    "title": "Mere Documents (e-Vault)",
+    "aadhaar": "Aadhaar Card",
+    "pan": "PAN Card",
+    "drivingLicense": "Driving License",
+    "rationCard": "Ration Card",
+    "verified": "Verified",
+    "pending": "Pending"
+  },
+  "manageUpi": {
+    "title": "UPI AutoPay Manage Karein",
+    "activeMandates": "Active Mandates",
+    "forPolicy": "{policyName} ke liye",
+    "amount": "₹{amount}/din",
+    "pause": "Pause",
+    "cancel": "Mandate Cancel Karein"
+  },
+  "rewards": {
+    "title": "Rewards & Points",
+    "totalPoints": "Total Points",
+    "history": "Points History"
+  }
+}

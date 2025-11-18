@@ -1,0 +1,9 @@
+{
+  "name": "Nirbhar - Insurance",
+  "description": "An AI-powered financial inclusion app for Tier-3 India, offering micro-insurance and savings solutions with a focus on accessibility through vernacular languages and voice UI.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}

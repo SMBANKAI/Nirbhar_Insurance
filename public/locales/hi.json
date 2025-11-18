@@ -1,0 +1,630 @@
+
+{
+  "common": {
+    "skip": "छोड़ें",
+    "verify": "सत्यापित करें",
+    "cancel": "रद्द करें",
+    "thinking": "सोच रहा है...",
+    "finding": "खोज रहा है...",
+    "sources": "स्रोत",
+    "back": "वापस",
+    "next": "अगला",
+    "continue": "जारी रखें",
+    "finish": "समाप्त करें"
+  },
+  "onboarding": {
+    "notifications": {
+      "title": "अपडेट रहें",
+      "body": "अपनी बचत और पुरस्कारों के बारे में महत्वपूर्ण अपडेट प्राप्त करने के लिए सूचनाओं की अनुमति दें।",
+      "allow": "सूचनाओं की अनुमति दें",
+      "later": "शायद बाद में"
+    },
+    "language": {
+      "title": "अपनी भाषा चुनें"
+    },
+    "welcome": {
+      "title": "आप जैसे 1 लाख+ भारतीय निर्भर का उपयोग कर रहे हैं!"
+    },
+    "video": {
+      "playing": "संक्षिप्त वीडियो चल रहा है... (10से)",
+      "title": "देखें कि छोटी बचत से कैसे बड़ा फर्क पड़ता है।"
+    },
+    "login": {
+      "title": "अपने भारतीय भाइयों और बहनों से जुड़ें",
+      "subtitle": "अपना फ़ोन नंबर दर्ज करके प्रारंभ करें।",
+      "placeholder": "आपका मोबाइल नंबर",
+      "terms": "मैंने नियम और शर्तें पढ़ ली हैं और उनसे सहमत हूं।",
+      "button": "ओटीपी भेजें"
+    },
+    "otp": {
+      "title": "अपना नंबर सत्यापित करें",
+      "subtitle": "आपके नंबर पर भेजा गया 4 अंकों का कोड दर्ज करें।"
+    },
+    "createAccount": {
+      "title": "आपका पूरा नाम क्या है?",
+      "placeholder": "अपना पूरा नाम दर्ज करें",
+      "button": "खाता बनाएं"
+    },
+    "congratulations": {
+      "title": "बधाई हो!",
+      "subtitle": "आपका खाता सफलतापूर्वक बन गया है।"
+    },
+    "savingsWhy": {
+      "title": "बीमा के लिए दैनिक बचत क्यों करें?",
+      "point1": "एक बड़े, एकल प्रीमियम भुगतान के बोझ से बचाता है।",
+      "point2": "आपकी सुरक्षा को बिना तनाव के सक्रिय रखता है, यह सुनिश्चित करता है कि आप कभी भी असुरक्षित न हों।",
+      "point3": "बीमा को किफायती बनाता है और एक सुसंगत बचत की आदत बनाता है।",
+      "continue": "सेटअप जारी रखें",
+      "why": "रोजाना बचत क्यों करें?"
+    },
+    "savingsSetup": {
+      "title": "दैनिक बचत",
+      "subtitle": "दैनिक बचत करके अपने लक्ष्यों तक 3 गुना तेजी से पहुंचें।",
+      "button": "50 अंक जीतें और बचत शुरू करें",
+      "earnPoints": "आप {{points}} बोनस अंक अर्जित करेंगे!",
+      "selectAmount": "अपना इनाम देखने के लिए एक राशि चुनें।",
+      "buttonWithPoints": "बचत शुरू करें और {{points}} अंक प्राप्त करें"
+    }
+  },
+  "nav": {
+    "home": "होम",
+    "explore": "एक्सप्लोर",
+    "save": "बचत",
+    "transactions": "लेन-देन"
+  },
+  "profileMenu": {
+    "accountDetails": "खाता विवरण",
+    "sos": "एसओएस बटन",
+    "history": "इतिहास",
+    "transactions": "लेन-देन",
+    "myPolicies": "मेरी पॉलिसियां",
+    "manageUpi": "UPI मैंडेट प्रबंधित करें",
+    "myDocuments": "मेरे दस्तावेज़ (ई-वॉल्ट)",
+    "rewards": "पुरस्कार और अंक",
+    "referFriend": "मित्र को रेफर करें",
+    "helpSupport": "सहायता और समर्थन"
+  },
+  "settings": {
+    "settings": "सेटिंग्स",
+    "addNominee": "नामांकित व्यक्ति जोड़ें",
+    "promoCode": "प्रोमो कोड",
+    "notifications": "अधिसूचना सेटिंग्स",
+    "changeLanguage": "ऐप की भाषा बदलें",
+    "logout": "लॉग आउट"
+  },
+  "home": {
+    "kyc": {
+      "title": "अपनी प्रोफ़ाइल पूरी करें",
+      "body": "सभी सुविधाओं और उच्च सीमाओं को अनलॉक करने के लिए अपना केवाईसी पूरा करें।",
+      "button": "केवाईसी पूरा करें",
+      "verifiedTitle": "केवाईसी सत्यापित",
+      "verifiedBody": "आपकी प्रोफ़ाइल पूरी हो गई है। अब आप सभी सुविधाओं का उपयोग कर सकते हैं।",
+      "verifiedButton": "सत्यापित"
+    },
+    "savings": {
+      "title": "दैनिक बचत",
+      "subtitle": "दैनिक बचत करके अपने लक्ष्यों तक 3 गुना तेजी से पहुंचें।"
+    },
+    "savingsGoal": {
+      "title": "आपका बचत लक्ष्य",
+      "cta": "सभी बचत देखें"
+    },
+    "insurance": {
+      "title": "हर जरूरत के लिए बीमा"
+    },
+    "dailyHabit": {
+      "title": "दैनिक बचत की आदत बनाएं",
+      "subtitle": "देखें कि छोटी, नियमित बचत समय के साथ कैसे बढ़ सकती है। यह आपको कल्पना करने में मदद करने के लिए एक डेमो है।",
+      "sliderLabel": "मैं रोजाना ₹{amount} बचाऊंगा",
+      "projectionTitle": "आपकी संभावित वृद्धि (अनुमानित)",
+      "year1": "1 साल में",
+      "year2": "2 साल में",
+      "year3": "3 साल में",
+      "button": "आदत शुरू करें और 20 अंक अर्जित करें"
+    }
+  },
+  "insurance": {
+    "1": { "description": "आकस्मिक मृत्यु/विकलांगता कवर के लिए ₹5/दिन।" },
+    "2": { "description": "ओपीडी और अस्पताल में भर्ती के लिए कम प्रीमियम वाला स्वास्थ्य कवर।" },
+    "3": { "description": "उपज हानि, मौसम की घटनाओं और कीटों से बचाता है।" },
+    "6": { "description": "कमाऊ सदस्य के निधन पर आय प्रतिस्थापन।" },
+    "8": { "description": "सार्वजनिक देयता + आग/चोरी जोखिम से सुरक्षा।" },
+    "9": { "description": "अस्पताल में भर्ती होने पर दैनिक नकद लाभ, सस्ती दर पर।" }
+  },
+  "explore": {
+    "title": "एआई सुविधाओं का अन्वेषण करें",
+    "back": "एक्सप्लोर पर वापस जाएं",
+    "tabs": {
+        "aiFeatures": "एआई सुविधाएँ",
+        "govtSchemes": "सरकारी योजनाएं"
+    },
+    "advisor": {
+      "title": "व्यक्तिगत बीमा सलाहकार",
+      "description": "अपने जीवन के आधार पर स्मार्ट सिफारिशें प्राप्त करें।",
+      "body": "एक कस्टम बीमा योजना प्राप्त करने के लिए अपनी जीवन शैली, काम और परिवार का वर्णन करें। उदाहरण के लिए: \"मैं ग्रामीण महाराष्ट्र में एक 30 वर्षीय किसान हूं, मेरी एक पत्नी और दो बच्चे हैं।\"",
+      "placeholder": "मुझे अपने बारे में बताएं...",
+      "button": "सिफारिश प्राप्त करें",
+      "chat": {
+        "start": "नमस्ते! मैं आपका व्यक्तिगत बीमा सलाहकार हूं। आपके लिए सही योजना खोजने के लिए मैं कुछ सवाल पूछूंगा।",
+        "q_age": "शुरू करने के लिए, क्या आप कृपया अपनी उम्र बता सकते हैं?",
+        "q_profession": "बहुत बढ़िया! आपका पेशा क्या है? (जैसे, किसान, दुकानदार, ड्राइवर)",
+        "q_location": "और क्या आप ग्रामीण या शहरी क्षेत्र में रहते हैं?",
+        "q_location_rural": "ग्रामीण",
+        "q_location_urban": "शहरी",
+        "q_family": "मुझे अपने परिवार के बारे में बताएं। (जैसे, शादीशुदा, 2 बच्चे)",
+        "q_income": "अंत में, आपकी अनुमानित मासिक आय क्या है? यह मुझे सबसे किफायती विकल्प खोजने में मदद करता है। (जैसे, 15000)",
+        "thanks": "धन्यवाद! मैं आपके लिए सर्वोत्तम सिफारिशें खोजने के लिए आपकी प्रोफ़ाइल का विश्लेषण कर रहा हूं। इसमें थोड़ा समय लग सकता है...",
+        "restart": "फिर से शुरू करें"
+      }
+    },
+    "location": {
+      "title": "स्थान-आधारित बीमा",
+      "description": "अपने क्षेत्र से संबंधित बीमा खोजें।",
+      "body": "अपने विशिष्ट क्षेत्र में लोकप्रिय और प्रासंगिक बीमा योजनाओं की खोज के लिए स्थान पहुंच की अनुमति दें।",
+      "button": "स्थानीय बीमा खोजें",
+      "prompt": "इस क्षेत्र के लोगों के लिए किस प्रकार का बीमा लोकप्रिय और उपयोगी है?",
+      "error": "स्थान प्राप्त नहीं हो सका"
+    },
+    "video": {
+      "title": "वीडियो व्याख्याता",
+      "description": "किसी भी विषय के बारे में एक छोटा वीडियो बनाएं।",
+      "body": "एक विषय दर्ज करें, और हम आपके लिए एक छोटा वीडियो व्याख्याता बनाएंगे। इसमें कुछ मिनट लग सकते हैं।",
+      "placeholder": "उदा., एक खुशहाल परिवार को बीमा चेक प्राप्त हो रहा है",
+      "button": "वीडियो बनाएं",
+      "loading": "वीडियो बना रहा है...",
+      "ready": "आपका वीडियो तैयार है!",
+      "apiKeyTitle": "वीडियो जेनरेटर के लिए एपीआई कुंजी आवश्यक है",
+      "apiKeyBody": "इस सुविधा का उपयोग करने के लिए, आपको एक एपीआई कुंजी का चयन करना होगा। वीडियो निर्माण एक बिल योग्य सेवा है।",
+      "apiKeyButton": "एपीआई कुंजी चुनें",
+      "billingLink": "बिलिंग के बारे में जानें",
+      "errorAlert": "वीडियो निर्माण के दौरान एक त्रुटि हुई। कृपया अपनी एपीआई कुंजी जांचें और पुनः प्रयास करें।"
+    },
+    "transcribe": {
+      "title": "ऑडियो ट्रांसक्रिप्शन",
+      "description": "अपने वॉयस नोट्स को तुरंत ट्रांसक्राइब करें।"
+    },
+    "live": {
+      "title": "लाइव वॉयस एजेंट",
+      "description": "हमारे एआई के साथ वास्तविक समय में बातचीत करें।"
+    }
+  },
+  "transactions": {
+    "title": "लेन-देन",
+    "type": {
+      "dailysaving": "दैनिक बचत",
+      "rewardpoints": "पुरस्कार अंक",
+      "instantsaving": "त्वरित बचत"
+    },
+    "status": {
+      "completed": "पूर्ण",
+      "credited": "जमा"
+    }
+  },
+  "chat": {
+    "title": "निर्भर सहायक",
+    "initialMessage": "नमस्ते! मैं आपका निर्भर सहायक हूं। मैं आज आपकी कैसे मदद कर सकता हूं? मुझसे बीमा या बचत के बारे में पूछें!",
+    "placeholder": "एक प्रश्न पूछें...",
+    "error": "क्षमा करें, मुझे एक त्रुटि का सामना करना पड़ा। कृपया पुनः प्रयास करें।"
+  },
+  "tour": {
+    "next": "अगला",
+    "prev": "पिछला",
+    "skip": "टूर छोड़ें",
+    "finish": "समाप्त",
+    "step1": {
+      "title": "होम में आपका स्वागत है!",
+      "content": "यह आपका मुख्य डैशबोर्ड है। अपनी केवाईसी स्थिति, बचत प्रगति देखें, और एक नज़र में मुख्य सुविधाओं तक पहुँचें।"
+    },
+    "step2": {
+      "title": "आपके लिए बीमा",
+      "content": "हम आपकी जरूरतों के लिए डिज़ाइन की गई विभिन्न सूक्ष्म-बीमा योजनाएं प्रदान करते हैं। अधिक जानने के लिए किसी भी कार्ड पर टैप करें।"
+    },
+    "step3": {
+      "title": "आपका एआई सहायक",
+      "content": "कोई सवाल है? बचत, बीमा, या स्थानीय सेवाओं को खोजने में मदद के लिए कभी भी हमारे एआई सहायक पर टैप करें।"
+    },
+    "step4": {
+      "title": "एक्सप्लोर करें और खोजें",
+      "content": "एक्सप्लोर टैब में शक्तिशाली एआई उपकरण हैं, जैसे एक व्यक्तिगत सलाहकार और वीडियो व्याख्याता, जो आपकी मदद करते हैं।"
+    },
+    "step5": {
+      "title": "अपनी बचत प्रबंधित करें",
+      "content": "सेव टैब वह जगह है जहाँ आप अपने बचत लक्ष्यों को प्रबंधित कर सकते हैं, स्वचालित योजनाएँ सेट कर सकते हैं और अपनी प्रगति को ट्रैक कर सकते हैं।"
+    },
+    "step6": {
+      "title": "खाता और सेटिंग्स",
+      "content": "अंत में, अपना खाता प्रबंधित करें, नामांकित व्यक्ति जोड़ें, अपने पुरस्कार जांचें, और सेटिंग्स मेनू में समर्थन पाएं।"
+    },
+    "reward": {
+      "title": "टूर पूरा हुआ!",
+      "body": "आप पूरी तरह तैयार हैं! ऐप के बारे में जानने के लिए धन्यवाद के रूप में, हमने आपके खाते में 50 बोनस अंक जोड़े हैं।",
+      "button": "शुरू हो जाओ!"
+    }
+  },
+  "nominee": {
+    "title": "नामांकित व्यक्ति जोड़ें",
+    "form": {
+        "nameLabel": "पूरा नाम",
+        "namePlaceholder": "नामांकित व्यक्ति का पूरा नाम दर्ज करें",
+        "relationshipLabel": "रिश्ता",
+        "relationshipPlaceholder": "जैसे, पति/पत्नी, बेटा, बेटी",
+        "phoneLabel": "फ़ोन नंबर",
+        "phonePlaceholder": "नामांकित व्यक्ति का फ़ोन नंबर दर्ज करें",
+        "saveButton": "नामांकित व्यक्ति को सहेजें"
+    }
+  },
+  "promo": {
+    "title": "प्रोमो कोड लागू करें",
+    "placeholder": "प्रोमो कोड दर्ज करें",
+    "button": "कोड लागू करें",
+    "success": "प्रोमो कोड सफलतापूर्वक लागू किया गया!",
+    "invalid": "अमान्य प्रोमो कोड। कृपया पुन: प्रयास करें।"
+  },
+  "scheduler": {
+    "title": "अपना प्रीमियम सेट करें",
+    "calendarTitle": "आपकी दैनिक भुगतान अनुसूची",
+    "paymentTitle": "UPI ऑटोपे सेट करें",
+    "paymentSubtitle": "आपका प्रीमियम प्रतिदिन स्वचालित रूप से काट लिया जाएगा।",
+    "confirmButton": "भुगतान करने के लिए आगे बढ़ें"
+  },
+  "kyc": {
+    "title": "केवाईसी सत्यापन",
+    "step": "चरण {current} का {total}",
+    "intro": {
+      "title": "चलिए आपका केवाईसी पूरा करते हैं",
+      "body": "यह आपके खाते को सुरक्षित करने और उच्च सीमाओं को अनलॉक करने के लिए एक बार की प्रक्रिया है। कृपया अपना पैन और आधार कार्ड संभाल कर रखें।",
+      "button": "केवाईसी शुरू करें"
+    },
+    "pan": {
+      "title": "अपना पैन कार्ड सत्यापित करें",
+      "label": "पैन कार्ड नंबर",
+      "placeholder": "अपना 10 अंकों का पैन दर्ज करें",
+      "button": "पैन सत्यापित करें"
+    },
+    "aadhaar": {
+      "title": "अपना आधार सत्यापित करें",
+      "label": "आधार कार्ड नंबर",
+      "placeholder": "12 अंकों का आधार नंबर दर्ज करें",
+      "button": "ओटीपी भेजें",
+      "otpTitle": "ओटीपी दर्ज करें",
+      "otpSubtitle": "आपके आधार से जुड़े मोबाइल नंबर पर भेजा गया।",
+      "otpButton": "ओटीपी सत्यापित करें"
+    },
+    "selfie": {
+      "title": "एक लाइव फोटो लें",
+      "body": "कृपया सीधे कैमरे में देखें। सुनिश्चित करें कि आपका चेहरा अच्छी तरह से रोशन और स्पष्ट रूप से दिखाई दे रहा है।",
+      "captureButton": "फोटो खींचे",
+      "retakeButton": "पुनः लें"
+    },
+    "upload": {
+      "title": "दस्तावेज़ अपलोड करें",
+      "body": "कृपया अपने पते के प्रमाण (जैसे, आधार कार्ड, वोटर आईडी, या उपयोगिता बिल) का एक स्पष्ट फोटो अपलोड करें।",
+      "button": "अपलोड करने के लिए फ़ाइल चुनें"
+    },
+    "success": {
+      "title": "केवाईसी जमा किया गया!",
+      "body": "आपके दस्तावेज़ सत्यापन के लिए जमा कर दिए गए हैं। इसमें 24 घंटे तक लग सकते हैं। पूरा होने पर हम आपको सूचित करेंगे।"
+    }
+  },
+  "policy": {
+    "tabs": {
+        "overview": "अवलोकन",
+        "coverage": "कवरेज",
+        "benefits": "लाभ"
+    },
+    "common": {
+      "coverageTitle": "कवरेज सारांश",
+      "benefitsTitle": "लाभ",
+      "eligibilityTitle": "पात्रता",
+      "covered": "क्या कवर किया गया है",
+      "notCovered": "क्या कवर नहीं किया गया है",
+      "watchVideo": "वीडियो देखें",
+      "viewScript": "स्क्रिप्ट देखें"
+    },
+    "1": {
+      "productName": "रोज़ का सुरक्षा कवच",
+      "header": { "title": "दैनिक सुरक्षा कवच", "subtext": "दुर्घटनाओं से आपकी आय की सुरक्षा" },
+      "video": { "title": "देखें कि छोटी बचत से कैसे बड़ा फर्क पड़ता है।" },
+      "coverage": {
+        "summary": { "death": "आकस्मिक मृत्यु (₹1 लाख)", "disability": "स्थायी विकलांगता", "hospitalCash": "अस्पताल नकद (₹500/दिन)" },
+        "notCovered": { "alcohol": "शराब का सेवन", "selfHarm": "आत्म-क्षति" }
+      },
+      "benefits": {
+        "b1": "नो क्लेम बोनस: कोई दावा न करने पर इनाम।",
+        "b2": "त्वरित दावा: डिजिटल प्रक्रिया, तेज़ धनराशि।",
+        "b3": "किफायती: एक कप चाय से भी सस्ता।"
+      },
+      "roiGraph": { 
+        "title": "सुरक्षा बनाम लागत", "xAxis": "समय अवधि", "yAxis": "मूल्य (₹)",
+        "legend": {
+          "premium": "लागत (प्रीमियम)",
+          "coverage": "कवरेज मूल्य",
+          "roi": "मूल्य गुणक"
+        }
+      },
+      "eligibility": { "age": "18-65 वर्ष", "profession": "कोई भी (छात्र, श्रमिक)" },
+      "cta": { "text": "सुरक्षा कवच शुरू करें (₹10/दिन)" }
+    },
+    "2": {
+      "productName": "परिवार का सेहत बीमा",
+      "header": { "title": "परिवार स्वास्थ्य आश्वासन", "subtext": "परिवार के लिए लचीला स्वास्थ्य कवर" },
+      "video": { 
+        "title": "अपने परिवार के स्वास्थ्य की सुरक्षा करें।",
+        "script": {
+            "1": "पूरे परिवार के लिए एक छोटा, लचीला स्वास्थ्य कवर (फ्लोटर)।",
+            "2": "अस्पताल में भर्ती होने की प्रारंभिक लागत और सामान्य बीमारियों पर ध्यान केंद्रित करता है।",
+            "3": "लक्ष्य: बुनियादी अस्पताल व्यय राहत की आवश्यकता वाले परिवार।"
+        }
+      },
+      "coverage": {
+        "summary": { "hospitalization": "अस्पताल में भर्ती (₹50k)", "prePost": "पूर्व/बाद अस्पताल में भर्ती", "dayCare": "डे केयर प्रक्रियाएं" },
+        "notCovered": { "cosmetic": "कॉस्मेटिक सर्जरी" }
+      },
+      "benefits": {
+        "b1": "फ्लोटर लाभ: 3-4 परिवार के सदस्यों को कवर करता है।",
+        "b2": "कोई दस्तावेज़ीकरण नहीं: त्वरित डिजिटल केवाईसी।",
+        "b3": "कैशलेस विकल्प: नेटवर्क अस्पताल उपलब्ध हैं।"
+      },
+      "roiGraph": { 
+        "title": "स्वास्थ्य कवर बनाम लागत", "xAxis": "समय अवधि", "yAxis": "मूल्य (₹)",
+        "legend": {
+          "premium": "मासिक प्रीमियम",
+          "coverage": "स्वास्थ्य कवर मूल्य",
+          "roi": "मूल्य गुणक"
+        }
+      },
+      "eligibility": { "family": "स्वयं, जीवनसाथी, 2 बच्चे", "kyc": "डिजिटल केवाईसी (आधार)" },
+      "cta": { "text": "परिवार को सुरक्षित करें (₹100/माह)" }
+    },
+    "3": {
+        "productName": "फसल सुरक्षा योजना",
+        "header": { "title": "फसल सुरक्षा योजना", "subtext": "किसानों को स्थानीय जोखिमों से बचाता है" },
+        "video": { 
+            "title": "अपनी फसल को अप्रत्याशित से सुरक्षित करें।",
+            "script": {
+                "1": "फसलों को नष्ट करने वाले स्थानीय, गैर-मौसमी जोखिमों से किसानों की रक्षा करता है।",
+                "2": "उच्च आवृत्ति, स्थानीय क्षति (कीट, भारी वर्षा) पर ध्यान दें।",
+                "3": "लक्ष्य: छोटे/सीमांत किसान, मौसमी फसलें।"
+            }
+        },
+        "coverage": {
+            "summary": { "pest": "कीट संक्रमण", "weather": "स्थानीय मौसम", "nonSeasonal": "गैर-मौसमी क्षति" },
+            "notCovered": { "intentional": "जानबूझकर की गई क्षति" }
+        },
+        "benefits": { 
+            "b1": "हाइपरलोकल मूल्यांकन: सैटेलाइट/जियो-टैगिंग।", 
+            "b2": "तेज़ भुगतान: सीधे बैंक/UPI में।",
+            "b3": "लचीली अवधि: बढ़ने के चक्र से जुड़ी।"
+        },
+        "roiGraph": { 
+            "title": "फसल मूल्य बनाम लागत", "xAxis": "समय अवधि", "yAxis": "मूल्य (₹)",
+            "legend": {
+              "premium": "सीजन प्रीमियम",
+              "coverage": "फसल कवर मूल्य",
+              "roi": "मूल्य गुणक"
+            }
+        },
+        "eligibility": { "land": "छोटे/सीमांत किसान", "crop": "मौसमी फसलें" },
+        "cta": { "text": "फसल सुरक्षित करें (₹50/सीजन)" }
+    },
+    "6": {
+        "productName": "जीवन सहायक सुरक्षा",
+        "header": { "title": "जीवन समर्थन सुरक्षा", "subtext": "हानि के बाद आय प्रतिस्थापन" },
+        "video": { 
+            "title": "अपने परिवार की भविष्य की आय को सुरक्षित करें।",
+            "script": {
+                "1": "प्राथमिक कमाने वाले की मृत्यु के बाद एक वर्ष की आय प्रदान करने पर केंद्रित एक शुद्ध-सुरक्षा टर्म लाइफ प्लान।",
+                "2": "धन सृजन पर नहीं, बल्कि आय प्रतिस्थापन पर ध्यान दें।",
+                "3": "लक्ष्य: प्राथमिक कमाने वाले वाला कोई भी परिवार।"
+            }
+        },
+        "coverage": {
+            "summary": { "natural": "प्राकृतिक मृत्यु", "accidental": "आकस्मिक मृत्यु", "terminal": "टर्मिनल बीमारी राइडर" },
+            "notCovered": { "suicide": "आत्महत्या (पहला वर्ष)" }
+        },
+        "benefits": { 
+            "b1": "अधिकतम भुगतान, न्यूनतम प्रीमियम: किफायती बड़ा कवर।", 
+            "b2": "स्पष्ट उद्देश्य: खोई हुई आय को बदलता है।", 
+            "b3": "आसान नामांकन: सरल स्वास्थ्य घोषणा।" 
+        },
+        "roiGraph": { 
+            "title": "बीमा राशि बनाम लागत", "xAxis": "समय अवधि", "yAxis": "मूल्य (₹)",
+            "legend": {
+                "premium": "मासिक प्रीमियम",
+                "coverage": "जीवन कवर मूल्य",
+                "roi": "मूल्य गुणक"
+            }
+        },
+        "eligibility": { "age": "18-50 वर्ष", "health": "सरल घोषणा" },
+        "cta": { "text": "आय सुरक्षित करें (₹50/माह)" }
+    },
+    "8": {
+        "productName": "व्यापार का ढाल",
+        "header": { "title": "बिजनेस शील्ड", "subtext": "अपनी आजीविका और सम्मान को सुरक्षित करें" },
+        "video": { 
+            "title": "अपनी दुकान को दावों से बचाएं।",
+            "script": {
+                "1": "छोटे दुकान मालिकों को तीसरे पक्ष के दावों के खिलाफ कवर करता है।",
+                "2": "छोटे व्यवसायी की आजीविका को सुरक्षित करने पर ध्यान दें।",
+                "3": "लक्ष्य: दुकान मालिक, दर्जी, सूक्ष्म कार्यशालाएं।"
+            }
+        },
+        "coverage": {
+            "summary": { "injury": "शारीरिक चोट", "property": "संपत्ति की क्षति", "legal": "कानूनी रक्षा लागत" },
+            "notCovered": { "intentional": "अवैध गतिविधियां" }
+        },
+        "benefits": { 
+            "b1": "सम्मान सुरक्षा: वित्तीय बर्बादी से बचें।", 
+            "b2": "व्यवसाय पर ध्यान दें: कानूनी जोखिमों पर नहीं।", 
+            "b3": "कम वार्षिक लागत: राजस्व का छोटा अंश।" 
+        },
+        "roiGraph": { 
+            "title": "देयता कवर बनाम लागत", "xAxis": "समय अवधि", "yAxis": "मूल्य (₹)",
+            "legend": {
+                "premium": "वार्षिक प्रीमियम",
+                "coverage": "देयता सीमा",
+                "roi": "मूल्य गुणक"
+            }
+        },
+        "eligibility": { "business": "छोटे दुकान/कार्यशाला मालिक" },
+        "cta": { "text": "व्यवसाय सुरक्षित करें (₹500/वर्ष)" }
+    },
+    "9": {
+        "productName": "बुजुर्गों का ख्याल",
+        "header": { "title": "बड़ों की देखभाल", "subtext": "वरिष्ठ अस्पताल में भर्ती के लिए निश्चित नकद" },
+        "video": { 
+            "title": "वरिष्ठ नागरिकों के लिए चिकित्सा लागत में मदद करें।",
+            "script": {
+                "1": "वरिष्ठ नागरिकों के लिए एक सरल निश्चित-लाभ स्वास्थ्य योजना।",
+                "2": "भुगतान एक निश्चित नकद राशि है, बिल की परवाह किए बिना।",
+                "3": "लक्ष्य: लागत के साथ मदद की आवश्यकता वाले वरिष्ठ नागरिक।"
+            }
+        },
+        "coverage": {
+            "summary": { "hospital": "निश्चित अस्पताल भुगतान", "illness": "सामान्य बीमारी भुगतान", "ambulance": "एम्बुलेंस लाभ" },
+            "notCovered": { "outpatient": "केवल ओपीडी" }
+        },
+        "benefits": { 
+            "b1": "सरल दावा: केवल डिस्चार्ज सारांश।", 
+            "b2": "तत्काल नकद: दवाओं/सहायकों के लिए उपयोग करें।", 
+            "b3": "कोई आयु बाधा नहीं: वरिष्ठ नागरिकों के लिए उपलब्ध।" 
+        },
+        "roiGraph": { 
+            "title": "नकद लाभ बनाम लागत", "xAxis": "समय अवधि", "yAxis": "मूल्य (₹)",
+            "legend": {
+                "premium": "मासिक प्रीमियम",
+                "coverage": "संभावित नकद लाभ",
+                "roi": "मूल्य गुणक"
+            }
+        },
+        "eligibility": { "age": "60+ वर्ष" },
+        "cta": { "text": "बुजुर्गों का समर्थन करें (₹100/माह)" }
+    }
+  },
+  "upi": {
+    "title": "अपना भुगतान पूरा करें",
+    "payTo": "निर्भर को भुगतान कर रहे हैं",
+    "enterPin": "UPI पिन दर्ज करें",
+    "processing": "भुगतान संसाधित हो रहा है...",
+    "successTitle": "भुगतान सफल!",
+    "successBody": "{policyName} के लिए आपका UPI ऑटोपे अब सक्रिय है। आपका ₹{amount} का दैनिक प्रीमियम स्वतः डेबिट हो जाएगा।",
+    "secure": "सुरक्षित UPI भुगतान"
+  },
+  "save": {
+    "delete": {},
+    "withdraw": {
+      "title": "धनराशि निकालें",
+      "button": "निकालें",
+      "balance": "उपलब्ध शेष राशि",
+      "amountLabel": "निकासी की राशि",
+      "amountPlaceholder": "उदा., 500",
+      "transferTypeLabel": "ट्रांसफर का प्रकार",
+      "instant": "तुरंत ट्रांसफर",
+      "scheduled": "अनुसूचित",
+      "scheduleDateLabel": "तारीख चुनें",
+      "confirmButton": "निकासी की पुष्टि करें",
+      "successInstant": "₹{amount} की निकासी सफलतापूर्वक शुरू हो गई है। यह जल्द ही आपके खाते में दिखाई देगी।",
+      "successScheduled": "₹{amount} की निकासी {date} के लिए निर्धारित की गई है।",
+      "errorAmount": "निकासी की राशि उपलब्ध शेष राशि से अधिक नहीं हो सकती।",
+      "errorInvalidAmount": "कृपया एक वैध राशि दर्ज करें।"
+    }
+  },
+  "claims": {},
+  "reminders": {
+    "title": "दैनिक अनुस्मारक",
+    "button": "अनुस्मारक सेट करें",
+    "modalTitle": "दैनिक बचत अनुस्मारक सेट करें",
+    "modalBody": "दैनिक सूचना प्राप्त करने के लिए एक समय चुनें।",
+    "saveButton": "अनुस्मारक सहेजें",
+    "removeButton": "अनुस्मारक हटाएं",
+    "noReminderSet": "कोई अनुस्मारक सेट नहीं है",
+    "reminderSetAt": "अनुस्मारक {time} के लिए सेट है",
+    "notification": "बचत करने का समय! अपने दैनिक लक्ष्य को न भूलें।"
+  },
+  "notifications": {
+    "title": "सूचनाएं",
+    "empty": "आपके पास कोई नई सूचनाएं नहीं हैं।",
+    "type": {
+      "savings": "बचत जमा हुई",
+      "reward": "अंक पुरस्कृत!",
+      "kyc": "केवाईसी सत्यापित",
+      "reminder": "पॉलिसी अनुस्मारक",
+      "claim": "दावा अद्यतन"
+    },
+    "body": {
+      "savings": "आपकी ₹{amount} की दैनिक बचत आपके आपातकालीन फंड में सफलतापूर्वक जोड़ दी गई है।",
+      "reward": "आपने टूर पूरा करने के लिए {points} अंक अर्जित किए हैं। अधिक कमाने के लिए बचत करते रहें!",
+      "kyc": "बधाई हो! आपका केवाईसी पूरा हो गया है। सभी ऐप सुविधाएँ अब अनलॉक हो गई हैं।",
+      "reminder": "{policyName} के लिए आपका प्रीमियम कल देय है। इसे न भूलें!",
+      "claim": "{policyName} के लिए आपके दावे पर अब कार्रवाई की जा रही है।"
+    }
+  },
+  "govtSchemes": {
+    "title": "सरकारी बीमा योजनाएं",
+    "1": { "name": "आयुष्मान भारत योजना (पीएमजेएवाई)", "description": "Ayushman Bharat Yojana, also known as the Pradhan Mantri Jan Arogya Yojana (PMJAY), is a universal health insurance scheme of the Ministry of Health and Family Welfare, Government of India. The PMJAY was launched to provide free healthcare services to more than 40% population of the country. This health insurance for poor in India offers a health cover of ₹5 lakh.\n\nThe PMJAY scheme provides coverage for medicines, diagnostic expenses, medical treatment, and pre-hospitalisation costs. The poor or low-income families of India can benefit from this Ayushman Bharat health insurance scheme." },
+    "2": { "name": "प्रधानमंत्री सुरक्षा बीमा योजना (पीएमएसबीवाई)", "description": "Pradhan Mantri Suraksha Bima Yojana aims to provide accident insurance cover to the people of India. People in the age group of 18 years to 70 years who have an account in a bank or post office can avail benefits from this scheme.\n\nThis personal accident insurance policy provides an annual cover of ₹2 lakh for total disability and death cover and ₹1 lakh for partial disability. The premium for this scheme gets automatically debited from the policyholder's bank account." },
+    "3": { "name": "आम आदमी बीमा योजना (एएबीवाई)", "description": "The Aam Aadmi Bima Yojana is a National Health Insurance Scheme introduced in October 2007 to provide compensation for accidental death and disability. It covers the earning member or the head of the family between the age group of 18 to 59 years. The AABY insurance scheme is tailored for people living in the upcountry and rural areas as well as landless citizens or tenants living in both urban and rural areas. It also provides scholarships to underprivileged children.\n\nUnder the AABY scheme, the family of the insured is compensated with ₹30,000 in case of natural death and ₹75,000 in case of accidental death. Besides, ₹37,500 is paid as compensation in case of accidental disability. Moreover, the annual ₹200 premium for this scheme is shared equally by the state and the central government." },
+    "4": { "name": "केंद्र सरकार स्वास्थ्य योजना (सीजीएचएस)", "description": "The Central Government Health Scheme was started in 1954 to provide comprehensive healthcare facilities to central government officials and pensioners residing in the country. This government insurance scheme is operational in 80 cities, including Kolkata, Mumbai, Lucknow, Delhi, Nagpur, and Pune.\n\nThe CGHS scheme has the following main components:\n\nOPD treatments availed at wellness centres as well as government and empanelled hospitals.\nReimbursement of hospitalisation expenses for treatments availed at government or private hospitals.\nAll dispensary-related services, including AYUSH medicines.\nInvestigations, like X-rays, MRIs, etc. or laboratory examination services will be provided free of cost at government and CGHS-empanelled diagnostic centres.\nFree specialist consultations at polyclinics, government, and empanelled hospitals.\nReimbursement of medical expenses incurred on artificial limbs, hearing aids, etc." },
+    "5": { "name": "कर्मचारी राज्य बीमा योजना (ईएसआईसी)", "description": "Employees' State Insurance Scheme is a multidimensional National Health Insurance Scheme that provides medical coverage, maternity insurance, sickness benefit, disablement benefit and dependents benefits to all workers in India. It provides full medical insurance to the workers and their families and pays cash benefits in times of sickness or temporary/permanent disability. In addition, dependents of workers injured in occupational accidents are eligible for a monthly pension known as dependent benefits.\n\nThe ESIC scheme is applicable to all permanent factories and establishments employing more than 10 employees. However, some states have extended this scheme to various establishments and businesses, including shops, restaurants, road and motor transport and newspaper entities that employ 20 or more people." },
+    "6": { "name": "मुख्यमंत्री व्यापक स्वास्थ्य बीमा योजना (सीएमसीएचआईएस)", "description": "Chief Minister's Comprehensive Health Insurance Scheme is a Tamil Nadu state government scheme that works in association with the United India Insurance Company Ltd. It is a family floater health insurance policy designed to provide quality healthcare services to economically weak families in the state. This medical insurance for low-income people covers 1090 medical procedures along with 52 diagnostic procedures and 8 follow-up procedures.\n\nUnder the CMCHIS scheme, eligible people can claim hospitalisation expenses up to ₹5 lakh at both private and government hospitals. Tamil Nadu residents with an annual family income of less than ₹1.2 lakh per year are eligible to enrol under this scheme." },
+    "7": { "name": "सार्वभौमिक स्वास्थ्य बीमा योजना (यूएचआईएस)", "description": "Universal Health Insurance Scheme was implemented to provide medical and personal accident cover to families living below the poverty line. While this mediclaim policy covers the hospitalisation expenses of every family member, it provides accidental death and disability benefit to the earning member or head of the family.\n\nThe main drivers of the Universal Health Insurance Scheme are the four public sector general insurance companies that offer health insurance for below poverty line citizens, especially economically disabled citizens. They cover hospitalisation expenses of up to ₹30,000, accidental death benefit of ₹25,000 and a disability compensation of ₹50 daily for a maximum of 15 days." },
+    "8": { "name": "पश्चिम बंगाल स्वास्थ्य योजना (डब्ल्यूबीएचएस)", "description": "The Government of West Bengal launched the West Bengal Health Scheme to provide better medical facilities to its employees in the year 2008. Gradually, the scheme was made available to superannuated and family pensioners, IAS, IFS and IPS employees and retired AIS officers.\n\nUnder the WBHS scheme, both individual and family floater coverage is available for up to ₹2 lakh per indoor treatment. The scheme covers all indoor medical treatments and OPD treatment for 18 diseases. Moreover, cashless health insurance was introduced in 2014, leading to the renaming of the scheme to 'West Bengal Health for All Employees and Pensioners Cashless Medical Treatment Scheme 2014'." },
+    "9": { "name": "यशस्विनी स्वास्थ्य बीमा योजना", "description": "The Karnataka State Government introduced the Yeshasvini Health Insurance Scheme for peasants, farmers and members of any co-operative society. The beneficiaries can avail medical treatments at identified Yeshasvini network hospitals across the state. Moreover, coverage benefits can be extended to the beneficiary's family members.\n\nThis government health insurance scheme covers 2128 procedures, including 1650 medical procedures and 478 ICUs. However, it mainly offers coverage for heart diseases, orthopaedic diseases, nerve-related diseases, women-related diseases, intestinal diseases, ENT and ophthalmology diseases." },
+    "10": { "name": "महात्मा ज्योतिराव फुले जन आरोग्य योजना (एमजेपीजेएवाई)", "description": "The Government of Maharashtra introduced the Mahatma Jyotirao Phule Jan Arogya Yojana to provide medical insurance coverage to all families in the states. This health insurance for low-income individuals is especially helpful for people living below the poverty line and farmers in Maharashtra.\n\nThe MJPJAY scheme offers a family health cover of up to ₹5 lakh for 1209 treatments under 34 specialities. The best part about this policy is that there is no waiting period for pre-existing diseases, and it is claimable from the first day itself." },
+    "11": { "name": "मुख्यमंत्री अमृतम (एमए) योजना", "description": "Mukhyamantri Amrutam Yojana was initiated by the Gujarat government in the year 2012 to provide quality medical and surgical care for major illnesses to poor people living in the state. People belonging to lower-income groups and living below the poverty line are eligible to enrol in this scheme.\n\nThe MA Yojana provides family floater health insurance coverage of up to ₹3 lakh per annum. Under this health insurance for poor people, policyholders can avail of cashless medical treatments for heart diseases, cancer, neurosurgery, kidney diseases, burns and neonatal or newborn baby diseases, covering 698 procedures at private, government and trust-run hospitals. Moreover, transplants of kidney, liver and kidney + pancreas are covered up to ₹5 lakh." },
+    "12": { "name": "कारुण्य आरोग्य सुरक्षा पद्धति (केएएसपी)", "description": "The Kerala Government launched the Karunya Arogya Suraksha Padhathi to provide secondary and tertiary care hospitalisation to the poor and vulnerable families in the state. It provides health insurance coverage of ₹5 lakh for 1573 medical procedures. Moreover, it covers pre-hospitalisation expenses of up to 3 days and post-hospitalisation expenses of up to 15 days.\n\nPeople in Kerala who are living below the poverty line can enrol themselves in this health insurance for poor in India. Besides, it provides coverage to the entire family with no restriction on family size, gender or age." },
+    "13": { "name": "तेलंगाना राज्य सरकार - कर्मचारी और पत्रकार स्वास्थ्य योजना", "description": "Telangana Government launched the Employees and Journalist Health Scheme for its working and retired journalists and employees, including pensioners. In this scheme, beneficiaries and their families can avail of cashless treatment at hospitals registered with Rajiv Aarogyasri Health Care Trust. The coverage includes in-patient treatment, OPD treatment for chronic illnesses and follow-up therapies." },
+    "14": { "name": "डॉ वाईएसआर आरोग्यश्री स्वास्थ्य योजना", "description": "The Andhra Pradesh Government launched the Dr YSR Aarogyasri Health Scheme in 2007 to offer universal health coverage to people in the state living below the poverty line. It provides end-to-end cashless coverage of ₹5 lakh for listed diseases at government and private empanelled hospitals. In 2024, the scheme was renamed as Dr. Nandamuri Taraka Rama Rao Vaidya Seva Trust Health Insurance scheme.\n\nThis health insurance for below poverty line citizens covers 3257 listed in-patient treatments across 31 categories, along with free screening and OPD consultations." },
+    "15": { "name": "आवाज़ स्वास्थ्य बीमा योजना", "description": "The Kerala Government launched the Awaz Health Insurance Scheme in 2017 to provide medical insurance and personal accident insurance coverage to migrants in the state. It provides a sum insured of ₹25,000 to beneficiaries between the age of 18 years and 60 years for medical treatments. Moreover, an accidental death benefit of 2 lakh and a disability compensation of ₹1 lakh are also available for the insured migrants." },
+    "16": { "name": "भामाशाह स्वास्थ्य बीमा योजना (बीएसबीवाई)", "description": "Bhamashah Swasthya Bima Yojana was launched by the Government of Rajasthan to provide cashless hospitalisation facilities to families identified under the National Food Security Act (NFSA) and the Rashtriya Swasthya Bima Yojana in the state. It covers in-patient treatment expenses of up to ₹30,000 for general illnesses across 1715 packages. The scheme also provides critical illness insurance coverage of up to ₹3 lakh.\n\nMoreover, this government health insurance scheme also provides pre-hospitalisation expenses of up to 7 days and post-hospitalisation expenses of up to 15 days." },
+    "17": { "name": "राष्ट्रीय स्वास्थ्य बीमा योजना (आरएसबीवाई)", "description": "Rashtriya Swasthya Bima Yojana was launched by the Ministry of Labour and Employment to provide medical insurance coverage to families living below the poverty line. It provides family floater coverage for in-patient treatment expenses of up to ₹30,000. The scheme also covers travel expenses of ₹100 per day up to a limit of ₹1000." }
+  },
+  "renew": {
+    "tabTitle": "पॉलिसी नवीनीकृत करें",
+    "title": "अपनी पॉलिसियों को नवीनीकृत करें",
+    "subtitle": "इसके नवीनीकरण विवरण देखने और ऑटो-पे सेट करने के लिए एक पॉलिसी चुनें।",
+    "dueDate": "आपका नवीनीकरण देय है",
+    "setupAutoPay": "नवीनीकरण के लिए UPI ऑटोपे सेट करें",
+    "setupSubtitle": "आपका नवीनीकरण प्रीमियम देय तिथि पर स्वचालित रूप से काट लिया जाएगा।",
+    "confirmButton": "ऑटो-नवीनीकरण की पुष्टि करें",
+    "button": "नवीनीकृत करें"
+  },
+  "sos": {
+    "title": "एसओएस - आपातकालीन संपर्क",
+    "ambulance": "एम्बुलेंस",
+    "police": "पुलिस",
+    "assistant": "निर्भर कॉल सहायक",
+    "insurance": "बीमा आपातकालीन लाइन",
+    "call": "कॉल करें"
+  },
+  "myPolicies": {
+    "title": "मेरी पॉलिसियां",
+    "policyNumber": "पॉलिसी संख्या",
+    "coverage": "कवरेज",
+    "premium": "प्रीमियम",
+    "dueDate": "अगली देय तिथि",
+    "viewDetails": "विवरण देखें"
+  },
+  "myDocuments": {
+    "title": "मेरे दस्तावेज़ (ई-वॉल्ट)",
+    "aadhaar": "आधार कार्ड",
+    "pan": "पैन कार्ड",
+    "drivingLicense": "ड्राइविंग लाइसेंस",
+    "rationCard": "राशन कार्ड",
+    "verified": "सत्यापित",
+    "pending": "लंबित"
+  },
+  "manageUpi": {
+    "title": "UPI ऑटोपे प्रबंधित करें",
+    "activeMandates": "सक्रिय मैंडेट",
+    "forPolicy": "{policyName} के लिए",
+    "amount": "₹{amount}/दिन",
+    "pause": "रोकें",
+    "cancel": "मैंडेट रद्द करें"
+  },
+  "rewards": {
+    "title": "पुरस्कार और अंक",
+    "totalPoints": "कुल अंक",
+    "history": "अंक इतिहास"
+  }
+}

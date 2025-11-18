@@ -1,0 +1,63 @@
+{
+  "common": {
+    "skip": "ಬಿಟ್ಟುಬಿಡಿ",
+    "verify": "ಪರಿಶೀಲಿಸಿ",
+    "cancel": "ರದ್ದುಮಾಡಿ"
+  },
+  "onboarding": {
+    "language": {
+      "title": "ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+    }
+  },
+  "nav": {
+    "home": "ಮುಖಪುಟ",
+    "explore": "ಅನ್ವೇಷಿಸಿ",
+    "save": "ಉಳಿಸಿ",
+    "transactions": "ವಹಿವಾಟುಗಳು"
+  },
+  "profileMenu": {
+    "accountDetails": "Account Details",
+    "sos": "SOS Button",
+    "history": "History",
+    "transactions": "Transactions",
+    "myPolicies": "My Policies",
+    "manageUpi": "Manage UPI Mandates",
+    "myDocuments": "My Documents (e-Vault)",
+    "rewards": "Rewards & Points",
+    "referFriend": "Refer a Friend",
+    "helpSupport": "Help & Support"
+  },
+  "settings": {
+    "settings": "ಸಂಯೋಜನೆಗಳು",
+    "addNominee": "ADD A NOMINEE",
+    "promoCode": "PROMO CODE",
+    "changeLanguage": "ಅಪ್ಲಿಕೇಶನ್ ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಿ",
+    "logout": "ಲಾಗ್ ಔಟ್"
+  },
+  "home": {
+    "savingsGoal": {}
+  },
+  "nominee": {
+      "title": "Add a Nominee"
+  },
+  "promo": {
+      "title": "Apply Promo Code"
+  },
+  "scheduler": {
+    "title": "Set Up Your Premium"
+  },
+  "policy": {
+    "1": { "productName": "Daily Accident Cover" },
+    "2": { "productName": "Micro Health Floater" },
+    "3": { "productName": "Crop & Farming Risk" },
+    "6": { "productName": "Family Death / Income Replacement" },
+    "8": { "productName": "Small Business Public Liability" },
+    "9": { "productName": "Senior Citizen Daily Cash" }
+  },
+  "save": {
+     "delete": {},
+     "withdraw": {}
+  },
+  "claims": {},
+  "reminders": {}
+}

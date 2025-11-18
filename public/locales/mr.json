@@ -1,0 +1,63 @@
+{
+  "common": {
+    "skip": "वगळा",
+    "verify": "सत्यापित करा",
+    "cancel": "रद्द करा"
+  },
+  "onboarding": {
+    "language": {
+      "title": "तुमची भाषा निवडा"
+    }
+  },
+  "nav": {
+    "home": "होम",
+    "explore": "एक्सप्लोर करा",
+    "save": "बचत",
+    "transactions": "व्यवहार"
+  },
+  "profileMenu": {
+    "accountDetails": "Account Details",
+    "sos": "SOS Button",
+    "history": "History",
+    "transactions": "Transactions",
+    "myPolicies": "My Policies",
+    "manageUpi": "Manage UPI Mandates",
+    "myDocuments": "My Documents (e-Vault)",
+    "rewards": "Rewards & Points",
+    "referFriend": "Refer a Friend",
+    "helpSupport": "Help & Support"
+  },
+  "settings": {
+    "settings": "सेटिंग्ज",
+    "addNominee": "ADD A NOMINEE",
+    "promoCode": "PROMO CODE",
+    "changeLanguage": "अॅपची भाषा बदला",
+    "logout": "लॉग आउट"
+  },
+  "home": {
+    "savingsGoal": {}
+  },
+  "nominee": {
+      "title": "Add a Nominee"
+  },
+  "promo": {
+      "title": "Apply Promo Code"
+  },
+  "scheduler": {
+    "title": "Set Up Your Premium"
+  },
+  "policy": {
+    "1": { "productName": "Daily Accident Cover" },
+    "2": { "productName": "Micro Health Floater" },
+    "3": { "productName": "Crop & Farming Risk" },
+    "6": { "productName": "Family Death / Income Replacement" },
+    "8": { "productName": "Small Business Public Liability" },
+    "9": { "productName": "Senior Citizen Daily Cash" }
+  },
+  "save": {
+     "delete": {},
+     "withdraw": {}
+  },
+  "claims": {},
+  "reminders": {}
+}
